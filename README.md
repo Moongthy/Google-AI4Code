@@ -1,4 +1,4 @@
-# Google-AI4Code
+# Google-AI4Code top 10% solution
 
 무작위 순서로 배치된 주피터 노트북 셀의 올바른 순서를 추론하는 모델입니다.
 
